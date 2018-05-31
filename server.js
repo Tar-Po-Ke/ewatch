@@ -7,10 +7,10 @@ const axios = require('axios');
 
 // Initialise Pusher
 var pusher = new Pusher({
-  appId: '534996',
-  key: 'adefac580c2db395042d',
-  secret: '6ca4aa90cfeabc346b9e',
-  cluster: 'ap1',
+  appId: 'your-pusher-id',
+  key: 'your-pusher-key',
+  secret: 'your-pusher-secret',
+  cluster: 'your-cluster',
   encrypted: true
 });
 // Body parser middleware
