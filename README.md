@@ -1,7 +1,8 @@
+<<<<<<< HEAD
 # ewatch
 
 > A Vue.js project
-
+ 
 ## Build Setup
 
 ``` bash
@@ -28,3 +29,6 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# ewatch
+>>>>>>> 61c94733629d17bc439b633add5ee7b712b123ff
