@@ -99,8 +99,8 @@ export default {
       this._fetchDataForToday()
 
       /* Realtime display */
-      var pusher = new Pusher('adefac580c2db395042d', {
-        cluster: 'ap1',
+      var pusher = new Pusher('your-pusher-key', {
+        cluster: 'your-cluster',
         encrypted: true
       })
 
